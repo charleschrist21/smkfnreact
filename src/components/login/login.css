@@ -1,0 +1,66 @@
+#img-bg-lgn{
+    position: fixed;
+    left: 50%;
+    width: 50%;
+    top: -50%;
+}
+textarea{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid rgb(194, 192, 192);
+}
+.txt-input-password-login{
+    position: absolutes;
+    margin-top: 2%!important;
+  }
+.txt-halo-lgn{
+    position: absolute;
+    font-weight: bold;
+    top: 20%;
+    left: 5%;
+    color: #9c9c9c;
+}
+.txt-admin-lgn{
+    position: absolute;
+    font-weight: bold;
+    top: 20%;
+    left: 210px;
+}
+.txt-welcome-admin{
+    position: absolute;
+    font-weight: bold;
+    top: 30%;
+    left: 5%;  
+    opacity: 0.5;
+}
+.txt-welcome-admin-2{
+    position: absolute;
+    font-weight: bold;
+    left: 5%;
+    top: 35%;
+    opacity: 0.5;
+}
+.form-login{
+    position: absolute;
+    left: 5%;
+    top: 45%;
+    width: 40%;
+}
+.lgnAll{
+    width: 50%;
+}
+.btnlogin{
+    background-color: black!important;
+}
+.btnlogin:hover{
+    background-color: black;
+}
+.txt-agree-login{
+    position: absolute;
+    top: 75%;
+    left: 5%;
+    font-size: 10px;
+}
+.form-control:focus{
+    border: 1px solid rgb(105, 104, 104);
+}

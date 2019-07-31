@@ -1,0 +1,27 @@
+Form Label{
+    font-size: 11px;
+}
+.form-control{
+    border-radius: 5px;
+    height: 40px;
+}
+input{
+    border-radius: 5px;
+    display: block;
+}
+textarea{
+    width: 80%;
+}
+.upload-btn-wrapper{
+    cursor: pointer;
+    font-size: 10px;
+}
+.img-siswa-add{
+    width: 70px;
+    height: 70px;
+    border-radius: 5px;
+}
+#textarea-add-siswa{
+    padding: 10px 20px 10px 10px;
+    font-size: 12px;
+}
